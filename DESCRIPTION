@@ -1,0 +1,16 @@
+Package: nwnwpackage
+Type: Package
+Title: My Functions
+Version: 0.1.0
+Author: Xuan
+Maintainer: The package maintainer <xuanliu98@outlook.com>
+Description: This pacakge is using for learning how to build a R package and storing some funtions that I create for learning. 
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    utils,
+    ggplot2,
+    jsonlite,
+    MTS,
+RoxygenNote: 7.1.1
